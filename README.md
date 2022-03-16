@@ -34,7 +34,9 @@
       
     •	Fit 5 Algorithms in xtrain and ytrain and predicted ypred.
 
-
+3. Face Recognition CMU Challenge:
+  The given problem had 3 datasets namely train, dev and test which were the training, validation, and test datasets respectively. There was a total of 7000 labels and        
+  140000+35000 images for training and validation and 35000 test images. A VGG16 model was used with adam optimiser, categorical_crossentropy loss and accuracy metrics.
 
 
 
